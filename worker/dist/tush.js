@@ -131,6 +131,7 @@ function html(current_drive_order = 0, model = {}) {
   </script>
   <script src="//cdn.jsdelivr.net/combine/gh/jquery/jquery@3.2/dist/jquery.min.js,gh/420tushar/@${authConfig.version}/web/dist/js/tush-app.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/mdui/0.4.3/js/mdui.min.js"></script>
+  <style>.mdui-textfield-input { color: white; }</style>
 </head>
 <body>
 </body>
